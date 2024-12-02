@@ -1,0 +1,14 @@
+{
+  "name": "ckb-ccc-core-hex-from-reproduce",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@ckb-ccc/core": "^0.1.0-alpha.5"
+  }
+}
